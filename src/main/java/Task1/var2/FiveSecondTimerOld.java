@@ -11,7 +11,7 @@ class FiveSecondTimerOld {
         new Thread(() -> {
             try {
                 while (true) {
-                    System.out.println(System.currentTimeMillis() - start);
+                    System.out.println((System.currentTimeMillis() - start) / 1000 + " сек.");
                     Thread.sleep(1000);
                 }
             } catch (InterruptedException e) {

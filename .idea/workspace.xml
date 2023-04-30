@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="93e06bf9-c6b0-4f70-a3c1-9628a092278e" name="Changes" comment="Homework module12&#10;Task2">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task1/FiveSecondTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task1/FiveSecondTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task1/var2/FiveSecondTimerOld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task1/var2/FiveSecondTimerOld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
       <recent name="Task2.FizzBuzz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2.FizzBuzzTest">
+  <component name="RunManager" selected="Application.Task1.FiveSecondTimer">
     <configuration name="FiveSecondTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GoIT.FiveSecondTimer" />
       <module name="module12" />
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.var2.FizzBuzzTest" />
+    <configuration name="FiveSecondTimerOld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1.var2.FiveSecondTimerOld" />
       <module name="module12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task2.var2.*" />
+          <option name="PATTERN" value="Task1.var2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.FizzBuzz.NumberThreadTest" />
+    <configuration name="FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.var2.FizzBuzzTest" />
       <module name="module12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task2.FizzBuzz.*" />
+          <option name="PATTERN" value="Task2.var2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1.FiveSecondTimer" />
+        <item itemvalue="Application.FiveSecondTimerOld" />
         <item itemvalue="Application.Task2.FizzBuzzTest" />
         <item itemvalue="Application.FizzBuzzTest" />
-        <item itemvalue="Application.Task1.FiveSecondTimer" />
         <item itemvalue="Application.FiveSecondTimer" />
-        <item itemvalue="Application.NumberThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682816235999</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Homework module12&#10;Task2">
+      <created>1682816671063</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682816671063</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homework module12&#10;Task2">
+      <created>1682816833684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682816833684</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
