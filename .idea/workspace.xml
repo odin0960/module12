@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e06bf9-c6b0-4f70-a3c1-9628a092278e" name="Changes" comment="Homework module12&#10;Task1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/ver2/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/ver2/NumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/ver2/ProcessThread.java" afterDir="false" />
+    <list default="true" id="93e06bf9-c6b0-4f70-a3c1-9628a092278e" name="Changes" comment="Homework module12&#10;Task2">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task1/FiveSecondTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task1/FiveSecondTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task2/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task2/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682809439986</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework module12&#10;Task2">
+      <created>1682815923788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682815923788</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework module12&#10;Task2">
+      <created>1682816030503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682816030503</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +204,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework module12&#10;Task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework module12&#10;Task1" />
+    <MESSAGE value="Homework module12&#10;Task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework module12&#10;Task2" />
   </component>
 </project>

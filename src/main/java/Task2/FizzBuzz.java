@@ -2,10 +2,11 @@ package Task2;
 
 import java.util.Map;
 import java.util.TreeMap;
+import java.util.concurrent.ConcurrentSkipListMap;
 
 public class FizzBuzz {
     private int num;
-    private Map<Integer, String> res = new TreeMap<>();
+    private Map<Integer, String> res;
 
     public FizzBuzz(int num, Map<Integer, String> res) {
         this.num = num;
