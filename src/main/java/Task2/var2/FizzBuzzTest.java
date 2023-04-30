@@ -1,4 +1,4 @@
-package Task2.ver2;
+package Task2.var2;
 
 import java.util.ArrayList;
 import java.util.List;

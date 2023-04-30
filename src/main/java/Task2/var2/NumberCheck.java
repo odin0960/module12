@@ -1,4 +1,4 @@
-package Task2.ver2;
+package Task2.var2;
 
 @FunctionalInterface
 public interface NumberCheck {

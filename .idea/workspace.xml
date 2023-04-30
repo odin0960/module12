@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93e06bf9-c6b0-4f70-a3c1-9628a092278e" name="Changes" comment="Homework module12&#10;Task2">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task2/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task2/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.ver2.FizzBuzzTest" />
+      <option name="MAIN_CLASS_NAME" value="Task2.var2.FizzBuzzTest" />
       <module name="module12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task2.ver2.*" />
+          <option name="PATTERN" value="Task2.var2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,7 +112,7 @@
       <module name="module12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task1.*" />
+          <option name="PATTERN" value="Task1.var2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682816030503</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Homework module12&#10;Task2">
+      <created>1682816235998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682816235999</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
