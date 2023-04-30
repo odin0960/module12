@@ -10,7 +10,7 @@ class FiveSecondTimer {
 
     public static void main(String[] args) {
 
-        int runningTime = 20;   //
+        int runningTime = 20;   // тривалість
         int period1 = 1;   //
         int period2 = 5;   //
         int delay1 = 0;    //
